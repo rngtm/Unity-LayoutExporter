@@ -4,7 +4,7 @@
 Unity-LayoutExporter is a tool to import/export Unity layout settings(.wlt)
 
 <img src = "Demo/overview.png">
-<br
+<br>
 
 ## Usage 1 - Export Layout Settings (.wlt)
 
